@@ -133,7 +133,6 @@ class alexProperty{
 		return $html;
 	}
 	
-
 	function load_text_domain(){
 		load_plugin_textdomain('alexproperty', false, dirname(plugin_basename(__FILE__)).'/lang');
 	}
