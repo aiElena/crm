@@ -159,5 +159,6 @@ if(class_exists('alexProperty')){
 	$alexProperty = new alexProperty();
 	$alexProperty->register();
 }
+
 register_activation_hook(__FILE__, array($alexProperty, 'activation') );
 register_deactivation_hook(__FILE__, array($alexProperty, 'deactivation') );
