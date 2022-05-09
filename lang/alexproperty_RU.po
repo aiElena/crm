@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: alexproperty\n"
+"POT-Creation-Date: 2022-03-21 13:06+0200\n"
+"PO-Revision-Date: 2022-03-23 12:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/cpt.php:75
+msgid "Price"
+msgstr "Цена"
+
+#: inc/cpt.php:80
+msgid "Period"
+msgstr "Период"
+
+#: inc/cpt.php:85 inc/cpt.php:178
+msgid "Type"
+msgstr "Тип"
+
+#: inc/cpt.php:88
+msgid "For Sale"
+msgstr "Для продажи"
+
+#: inc/cpt.php:89
+msgid "For Rent"
+msgstr "Для аренды"
+
+#: inc/cpt.php:90
+msgid "Sold"
+msgstr "Продано"
+
+#: inc/cpt.php:99 inc/cpt.php:128
+msgid "Agents"
+msgstr "Агенты"
+
+#: inc/cpt.php:101
+msgid "Select Agent"
+msgstr "Выбрать агента"
+
+#: inc/cpt.php:120
+msgid "Property"
+msgstr "Объекты"
+
+#: inc/cpt.php:136
+msgid "Search Locations"
+msgstr "Выбрать локацию"
+
+#: inc/cpt.php:137
+msgid "All Locations"
+msgstr "Все локации"
+
+#: inc/cpt.php:138
+msgid "View Location"
+msgstr ""
+
+#: inc/cpt.php:139
+msgid "Parent Location"
+msgstr ""
+
+#: inc/cpt.php:140
+msgid "Parent Location:"
+msgstr ""
+
+#: inc/cpt.php:141
+msgid "Edit Location"
+msgstr ""
+
+#: inc/cpt.php:142
+msgid "Update Location"
+msgstr "Обновить локацию"
+
+#: inc/cpt.php:143
+msgid "Add New Location"
+msgstr "Добавить новую локацию"
+
+#: inc/cpt.php:144
+msgid "New Location Name"
+msgstr ""
+
+#: inc/cpt.php:145
+msgid "No Locations Found"
+msgstr ""
+
+#: inc/cpt.php:146
+msgid "Back to Locations"
+msgstr ""
+
+#: inc/cpt.php:147
+msgid "Location"
+msgstr ""
+
+#: inc/cpt.php:167
+msgid "Search Types"
+msgstr ""
+
+#: inc/cpt.php:168
+msgid "All Types"
+msgstr ""
+
+#: inc/cpt.php:169
+msgid "View Type"
+msgstr ""
+
+#: inc/cpt.php:170
+msgid "Parent Type"
+msgstr ""
+
+#: inc/cpt.php:171
+msgid "Parent Type:"
+msgstr ""
+
+#: inc/cpt.php:172
+msgid "Edit Type"
+msgstr ""
+
+#: inc/cpt.php:173
+msgid "Update Type"
+msgstr ""
+
+#: inc/cpt.php:174
+msgid "Add New Type"
+msgstr ""
+
+#: inc/cpt.php:175
+msgid "New Type Name"
+msgstr ""
+
+#: inc/cpt.php:176
+msgid "No Types Found"
+msgstr ""
+
+#: inc/cpt.php:177
+msgid "Back to Types"
+msgstr ""
